@@ -1,14 +1,14 @@
 const quotes = [
-  "A vida não examinada não vale a pena ser vivida. – Sócrates",
-  "Penso, logo existo. – René Descartes",
-  "Quem pensa grandes pensamentos, comete grandes erros. – Martin Heidegger",
-  "A felicidade não é um ideal da razão, mas da imaginação. – Immanuel Kant",
-  "O homem está condenado a ser livre. – Jean-Paul Sartre",
-  "Conhecer a si mesmo é o começo de toda sabedoria. – Aristóteles",
-  "Nenhum homem entra no mesmo rio duas vezes. – Heráclito",
-  "Liberdade é o poder que temos sobre nós mesmos. – Voltaire",
-  "Você pode descobrir mais sobre uma pessoa em uma hora de jogo do que em um ano de conversa. – Platão",
-  "A vida só pode ser compreendida olhando-se para trás, mas deve ser vivida olhando-se para frente. – Søren Kierkegaard"
+  "Não é porque as coisas são difíceis que não ousamos, é porque não ousamos que elas são difíceis. – Sêneca",
+  "A maior glória em viver não está em nunca cair, mas em se levantar a cada queda. – Confúcio",
+  "A jornada de mil milhas começa com um único passo. – Lao Tsé",
+  "O sucesso é ir de fracasso em fracasso sem perder o entusiasmo. – Winston Churchill",
+  "Age como se o princípio da tua ação devesse tornar-se lei universal. – Immanuel Kant",
+  "Não espere por uma crise para descobrir o que é importante em sua vida. – Platão",
+  "Se queres ser feliz amanhã, tenta hoje mesmo. – Liang Tzu",
+  "A mente é tudo. Você se torna aquilo que você pensa. – Buda",
+  "A vida é 10% o que acontece com você e 90% como você reage a isso. – Charles R. Swindoll",
+  "A persistência é o caminho do êxito. – Charles Chaplin"
 ];
 
 const subtitleElement = document.querySelector('.subtitle');
