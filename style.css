@@ -9,13 +9,17 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 150vh;
   overflow: auto;
 }
 
 .container {
   text-align: center;
   animation: flicker 2s infinite alternate;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
 }
 
 .title {
