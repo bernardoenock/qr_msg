@@ -20,4 +20,4 @@ function showRandomQuote() {
 
 showRandomQuote();
 
-setInterval(showRandomQuote, 20000);
+setInterval(showRandomQuote, 11000);
