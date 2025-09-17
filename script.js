@@ -10,7 +10,7 @@ const quotes = [
   "A persistência é o caminho do êxito. – Charles Chaplin"
 ];
 
-const subtitleElement = document.querySelector('.subtitle');
+const subtitleElement = document.querySelector('.filo');
 
 function showRandomQuote() {
   const randomIndex = Math.floor(Math.random() * quotes.length);

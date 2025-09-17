@@ -9,7 +9,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 150vh;
+  height: 100vh;
   overflow: auto;
 }
 
@@ -20,7 +20,12 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
+  align-items: center;
   margin: 1rem;
+}
+
+.title-card {
+  text-align: start;
 }
 
 .title {
@@ -31,6 +36,12 @@ body {
 }
 
 .subtitle {
+  font-size: 1rem;
+  color: #00eaff;
+  margin: 0;
+}
+
+.filo {
   font-size: 1rem;
   color: #00eaff;
   margin: 20px 0;
